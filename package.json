@@ -1,0 +1,8 @@
+{
+  "name": "shopair.tech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hieuphan94/shopair.tech.git",
+  "author": "Loky",
+  "license": "MIT"
+}
